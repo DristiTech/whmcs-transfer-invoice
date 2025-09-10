@@ -49,8 +49,10 @@
 
 ## License
 
-MIT License — use at your own risk.
+Apache 2.0 License — use at your own risk.
 
 ---
 
-*Developed by Dristi*
+About the Author
+
+Developed by [Dristi Technologies](https://dristitech.com). For support, visit our website.
