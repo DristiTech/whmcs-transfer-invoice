@@ -38,7 +38,8 @@
 
 ## Screenshots
 
-*(You can add screenshots here of the form, autocomplete, and transaction selection list.)*
+![Invoice Transfer Form](screenshots/form.png)
+![Transaction Selection](screenshots/transactions.png)
 
 ## Safety Notes
 
